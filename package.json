@@ -1,0 +1,12 @@
+{
+    "name": "dependencies",
+    "version": "1.0.0",
+    "description": "Dependencies for static analyzer",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "chalk": "^4.1.0",
+      "esprima": "^4.0.1",
+      "yargs": "^15.4.1"
+    }
+  }
